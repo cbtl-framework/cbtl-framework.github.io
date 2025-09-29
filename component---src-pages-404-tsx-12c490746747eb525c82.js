@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkfeature_fields_manipulation=self.webpackChunkfeature_fields_manipulation||[]).push([[218],{2513:function(e,t,n){n.r(t);var a=n(7294);t.default=()=>a.createElement("main",{style:{padding:"2rem",fontFamily:"system-ui, sans-serif"}},a.createElement("h1",null,"Page not found"),a.createElement("p",null,"Sorry — this page doesn’t exist."))}}]);
+//# sourceMappingURL=component---src-pages-404-tsx-12c490746747eb525c82.js.map
